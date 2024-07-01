@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snehacj
-- 👀 I’m interested in Mathematics and IT
-- 🌱 I’m currently learning Data analyst from edubridge learning
+- 👀 I’m interested in Machine learning 
+- 🌱 I completed Data analytics course from edubridge learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
